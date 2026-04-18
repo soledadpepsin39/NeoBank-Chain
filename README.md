@@ -7,7 +7,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green)]()
 [![Vision](https://img.shields.io/badge/Vision-Global-orange)]()
 [![Model](https://img.shields.io/badge/Model-CeFi%20%2B%20DeFi-blue)]()
-[![Finance](https://img.shields.io/badge/Finance-Islamic%20%2B%20Conventional-gold)]()
+[![Finance](https://img.shields.io/badge/Finance-Ethical%20%2B%20Alternative-green)]()
 
 ---
 
