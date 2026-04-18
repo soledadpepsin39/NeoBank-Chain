@@ -17,7 +17,7 @@
 
 - 🏦 **Traditional banking** — IBAN, SEPA, SWIFT, cards, loans
 - ⛓️ **Decentralized finance** — Solana blockchain, DeFi yields, smart contracts
-- ☪️ **Ethical finance** — Interest-free products, profit-sharing financing, values-aligned
+- 🌱 **Ethical finance** — Interest-free products, profit-sharing financing, values-aligned
 - 🤖 **AI-powered banking** — Claude AI as your personal financial advisor
 - 💼 **Professional B2B tools** — Letters of credit, trade finance, documentary collections
 
